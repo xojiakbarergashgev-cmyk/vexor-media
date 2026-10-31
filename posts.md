@@ -10,3 +10,4 @@
 - 2026-10-30 | 13:00 video | Mijoz nega ishonmaydi: 3 ishonch belgisi
 - 2026-10-30 | 18:00 karusel | Instagram'da nima post qilish: 4 turdagi kontent
 - 2026-10-31 | 09:00 rasm | Biznes xaritada: Google Maps / Yandex Karta kartochkasi
+- 2026-10-31 | 13:00 video | Instagram Stories: har kuni nima qo'yish — 3 g'oya
