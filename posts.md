@@ -11,3 +11,4 @@
 - 2026-10-30 | 18:00 karusel | Instagram'da nima post qilish: 4 turdagi kontent
 - 2026-10-31 | 09:00 rasm | Biznes xaritada: Google Maps / Yandex Karta kartochkasi
 - 2026-10-31 | 13:00 video | Instagram Stories: har kuni nima qo'yish — 3 g'oya
+- 2026-10-31 | 18:00 matn | Telegram bot: biznesda avtomatlashtirish mumkin bo'lgan 5 ish
