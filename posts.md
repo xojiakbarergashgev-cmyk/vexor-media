@@ -9,3 +9,4 @@
 - 2026-10-30 | 09:00 rasm | 1 sahifa = 1 tugma (saytda bitta asosiy chaqiriq)
 - 2026-10-30 | 13:00 video | Mijoz nega ishonmaydi: 3 ishonch belgisi
 - 2026-10-30 | 18:00 karusel | Instagram'da nima post qilish: 4 turdagi kontent
+- 2026-10-31 | 09:00 rasm | Biznes xaritada: Google Maps / Yandex Karta kartochkasi
