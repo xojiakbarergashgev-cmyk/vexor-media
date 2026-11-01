@@ -14,3 +14,4 @@
 - 2026-10-31 | 18:00 matn | Telegram bot: biznesda avtomatlashtirish mumkin bo'lgan 5 ish
 - 2026-11-01 | 09:00 rasm | Saytni telefonda tekshirish: 1 daqiqalik 4 savollik test
 - 2026-11-01 | 13:00 video | Narx paketlari: 3 variant qoidasi (mijoz psixologiyasi)
+- 2026-11-01 | 18:00 karusel | CRM'ga o'tish vaqti kelganini bildiruvchi 4 belgi
