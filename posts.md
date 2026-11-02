@@ -17,3 +17,4 @@
 - 2026-11-01 | 18:00 karusel | CRM'ga o'tish vaqti kelganini bildiruvchi 4 belgi
 - 2026-11-02 | 09:00 rasm | «Biz» emas — «Siz» deb yozing (mijoz foydasi haqida matn)
 - 2026-11-02 | 13:00 video | Instagram Reels: birinchi 3 soniya qoidasi
+- 2026-11-02 | 18:00 matn | Sayt buyurtma qilishdan oldin o'zingizga 5 ta savol
