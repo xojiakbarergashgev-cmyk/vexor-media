@@ -19,3 +19,4 @@
 - 2026-11-02 | 13:00 video | Instagram Reels: birinchi 3 soniya qoidasi
 - 2026-11-02 | 18:00 matn | Sayt buyurtma qilishdan oldin o'zingizga 5 ta savol
 - 2026-11-03 | 09:00 rasm | Mijozga tez javob: avto-javob, tayyor javoblar, CRM
+- 2026-11-03 | 13:00 video | Sayt tezligi: sekin saytni tezlashtirishning 3 qadami
