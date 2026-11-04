@@ -22,3 +22,4 @@
 - 2026-11-03 | 13:00 video | Sayt tezligi: sekin saytni tezlashtirishning 3 qadami
 - 2026-11-03 | 18:00 karusel | Raqobatchilarni 30 daqiqada tahlil qilish: 4 qadam
 - 2026-11-04 | 09:00 rasm | Target reklama: bitta e'lon emas — 3 variant sinash (A/B test)
+- 2026-11-04 | 13:00 video | Saytdagi ariza formasi: mijozni qochirmaslikning 3 qoidasi
