@@ -24,3 +24,4 @@
 - 2026-11-04 | 09:00 rasm | Target reklama: bitta e'lon emas — 3 variant sinash (A/B test)
 - 2026-11-04 | 13:00 video | Saytdagi ariza formasi: mijozni qochirmaslikning 3 qoidasi
 - 2026-11-04 | 18:00 matn | Eski mijozni qaytarish: 5 ta oddiy usul (baza, eslatma, CRM)
+- 2026-11-05 | 09:00 rasm | Domen nomi tanlash: 4 qoida (qisqa, tushunarli, belgisiz, brendga mos)
