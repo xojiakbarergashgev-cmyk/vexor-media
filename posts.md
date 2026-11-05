@@ -25,3 +25,4 @@
 - 2026-11-04 | 13:00 video | Saytdagi ariza formasi: mijozni qochirmaslikning 3 qoidasi
 - 2026-11-04 | 18:00 matn | Eski mijozni qaytarish: 5 ta oddiy usul (baza, eslatma, CRM)
 - 2026-11-05 | 09:00 rasm | Domen nomi tanlash: 4 qoida (qisqa, tushunarli, belgisiz, brendga mos)
+- 2026-11-05 | 13:00 video | Mijozdan sharh (otziv) olish: 3 qoida (vaqt, oson havola, javob qaytarish)
