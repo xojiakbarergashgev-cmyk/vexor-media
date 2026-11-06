@@ -29,3 +29,4 @@
 - 2026-11-05 | 18:00 karusel | Mijoz «o'ylab ko'raman» desa: yo'qotmaslik uchun 4 qadam
 - 2026-11-06 | 09:00 rasm | Mijoz 1 bosishda bog'lansin: bosiladigan raqam, Telegram/WhatsApp tugma, xarita havolasi
 - 2026-11-06 | 13:00 video | Target reklama auditoriyasi: 3 qoida (joy, mijoz tasviri, sinab ko'rish)
+- 2026-11-06 | 18:00 matn | Kontent rejasi: haftalik post rejasini tuzish — 5 qadam
