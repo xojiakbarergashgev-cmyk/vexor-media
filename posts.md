@@ -32,3 +32,4 @@
 - 2026-11-06 | 18:00 matn | Kontent rejasi: haftalik post rejasini tuzish — 5 qadam
 - 2026-11-07 | 09:00 rasm | Sayt «Xavfsiz emas» deb chiqmasin: SSL/https — ulash, yo'naltirish, muddatini kuzatish
 - 2026-11-07 | 13:00 video | Mijoz «qimmat» desa: 3 javob (savol, foyda, tanlov)
+- 2026-11-07 | 18:00 karusel | Sayt Google'da topilishi uchun SEO asoslari: 4 qadam (sarlavha, mijoz so'zlari, tezlik/mobil, Search Console)
