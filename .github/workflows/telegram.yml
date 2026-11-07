@@ -1,0 +1,30 @@
+name: Telegram post
+on:
+  push:
+    branches: [main]
+    paths: ["**/telegram.json"]
+  workflow_dispatch:
+    inputs:
+      file:
+        description: "telegram.json yo'li (masalan 2026-11-07/1800/telegram.json)"
+        required: true
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - name: Send
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: "@vexor_uz"
+        run: |
+          if [ -z "$TELEGRAM_BOT_TOKEN" ]; then echo "TELEGRAM_BOT_TOKEN secret yo'q"; exit 1; fi
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            FILES="${{ github.event.inputs.file }}"
+          else
+            FILES=$(git diff --name-only --diff-filter=AM HEAD~1 HEAD -- '**/telegram.json' 'telegram.json')
+          fi
+          echo "Files: $FILES"
+          python3 tools/tg_send.py $FILES

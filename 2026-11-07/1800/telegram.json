@@ -1,0 +1,33 @@
+{
+ "method": "sendMediaGroup",
+ "payload": {
+  "media": [
+   {
+    "type": "photo",
+    "media": "2026-11-07/1800/s1.png",
+    "caption": "<b>Saytingiz Google'da topiladimi? 🔎</b>\n\nSayt bor, lekin qidiruvdan mijoz kelmayaptimi? Ko'pincha sabab — oddiy asoslar e'tiborsiz qolgan.\n\n✅ Har sahifaga aniq sarlavha — nima qilasiz va qayerda\n✅ Mijoz tilida yozing — u Google'ga qanday so'z yozsa, o'sha so'zlar\n✅ Tez va telefonga mos sayt\n✅ Google Search Console'ga ulang — bepul va juda foydali\n\nSEO bir kunda natija bermaydi. Lekin to'g'ri asos bilan boshlangan sayt uzoq ishlaydi.\n\nSaytingizni birga ko'rib chiqamiz — <b>bepul konsultatsiya</b> 👇\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#SEO #veb_sayt #biznes",
+    "parse_mode": "HTML"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-07/1800/s2.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-07/1800/s3.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-07/1800/s4.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-07/1800/s5.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-07/1800/s6.png"
+   }
+  ]
+ }
+}
