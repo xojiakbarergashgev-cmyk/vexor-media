@@ -1,0 +1,8 @@
+{
+ "method": "sendPhoto",
+ "payload": {
+  "photo": "2026-11-07/0900/post.png",
+  "caption": "<b>🔒 Saytingiz «Xavfsiz emas» deb chiqmayaptimi?</b>\n\nMijoz saytga kirdi, manzil qatorida shu yozuvni ko'rdi — va ismini, raqamini qoldirishga ikkilanib qoldi. Ko'pincha sabab bitta: saytda https yo'q.\n\n✅ SSL sertifikat ulang — ko'p hostinglarda bepul variant bor\n✅ Barcha http havolalar avtomatik https'ga yo'naltirilsin\n✅ Sertifikat muddatini kuzating — tugasa, ogohlantirish qaytadi\n\nSaytingizni hozir telefoningizda ochib, manzil qatoriga bir qarang 👀\nShubha bo'lsa — yozing, birga tekshirib beramiz. Konsultatsiya bepul.\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#veb_sayt #biznes #vexor",
+  "parse_mode": "HTML"
+ }
+}
