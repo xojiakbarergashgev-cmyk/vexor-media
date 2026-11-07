@@ -30,3 +30,4 @@
 - 2026-11-06 | 09:00 rasm | Mijoz 1 bosishda bog'lansin: bosiladigan raqam, Telegram/WhatsApp tugma, xarita havolasi
 - 2026-11-06 | 13:00 video | Target reklama auditoriyasi: 3 qoida (joy, mijoz tasviri, sinab ko'rish)
 - 2026-11-06 | 18:00 matn | Kontent rejasi: haftalik post rejasini tuzish — 5 qadam
+- 2026-11-07 | 09:00 rasm | Sayt «Xavfsiz emas» deb chiqmasin: SSL/https — ulash, yo'naltirish, muddatini kuzatish
