@@ -1,0 +1,8 @@
+{
+ "method": "sendPhoto",
+ "payload": {
+  "photo": "2026-11-08/0900/post.png",
+  "caption": "<b>🧭 Mijoz qayerdan keldi — bilasizmi?</b>\n\nInstagram'da reklama, Telegram'da post, saytda forma... Ariza keldi — lekin qaysi biridan? Shuni bilmasangiz, reklama pulini ko'r-ko'rona sarflaysiz.\n\n✅ Har bir arizaga «manba» yozing: Instagram, Telegram, sayt, tavsiya\n✅ Har bir reklama uchun alohida havola qiling — qaysi e'lon ishlaganini ko'rasiz\n✅ Oy oxirida sanang va ko'p mijoz bergan kanalga kuch bering\n\nCRM'da bu bitta maydon bilan avtomatik bo'ladi. Qanday sozlashni bilmasangiz — yozing, konsultatsiya bepul 🙌\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#CRM #target_reklama #biznes",
+  "parse_mode": "HTML"
+ }
+}
