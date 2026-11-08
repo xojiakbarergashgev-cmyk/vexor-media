@@ -1,0 +1,11 @@
+{
+ "method": "sendVideo",
+ "payload": {
+  "video": "2026-11-08/1300/video.mp4",
+  "caption": "<b>📌 Instagram «Aktual»: mijoz birinchi bo'lib shu yerga qaraydi</b>\n\nProfilga kirgan odam postlarni varaqlashdan oldin doirachalarni ochadi. Ular bo'sh yoki tartibsiz bo'lsa — savol bermay chiqib ketishi mumkin.\n\n✅ Narxlar va xizmatlar — bitta joyda\n✅ Ishlar va natijalar — real misollar, mijozlarning haqiqiy fikrlari\n✅ Qanday buyurtma qilish — manzil, ish vaqti, bog'lanish\n\nProfilingizni birga ko'rib chiqamizmi? Konsultatsiya bepul 🙌\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#SMM #instagram #biznes",
+  "parse_mode": "HTML",
+  "width": 1080,
+  "height": 1920,
+  "supports_streaming": true
+ }
+}
