@@ -33,3 +33,4 @@
 - 2026-11-07 | 09:00 rasm | Sayt «Xavfsiz emas» deb chiqmasin: SSL/https — ulash, yo'naltirish, muddatini kuzatish
 - 2026-11-07 | 13:00 video | Mijoz «qimmat» desa: 3 javob (savol, foyda, tanlov)
 - 2026-11-07 | 18:00 karusel | Sayt Google'da topilishi uchun SEO asoslari: 4 qadam (sarlavha, mijoz so'zlari, tezlik/mobil, Search Console)
+- 2026-11-08 | 09:00 rasm | Mijoz qayerdan keldi? Manbani yozish: ariza manbasi, har reklamaga alohida havola, oy oxirida sanash
