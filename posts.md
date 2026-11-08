@@ -35,3 +35,4 @@
 - 2026-11-07 | 18:00 karusel | Sayt Google'da topilishi uchun SEO asoslari: 4 qadam (sarlavha, mijoz so'zlari, tezlik/mobil, Search Console)
 - 2026-11-08 | 09:00 rasm | Mijoz qayerdan keldi? Manbani yozish: ariza manbasi, har reklamaga alohida havola, oy oxirida sanash
 - 2026-11-08 | 13:00 video | Instagram «Aktual» (highlights): 3 ta zarur bo'lim (narxlar, ishlar, buyurtma tartibi)
+- 2026-11-08 | 18:00 matn | Target reklamani yoqishdan oldin: 5 tayyorgarlik (sahifa, aniq taklif, yo'nalish, tez javob, sinov byudjeti)
