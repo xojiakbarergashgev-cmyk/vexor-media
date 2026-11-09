@@ -1,0 +1,33 @@
+{
+ "method": "sendMediaGroup",
+ "payload": {
+  "media": [
+   {
+    "type": "photo",
+    "media": "2026-11-09/1800/s1.png",
+    "caption": "<b>Mijoz sizga nega ishonishi kerak? 🤝</b>\n\nSahifangizni birinchi marta ko'rgan odam sizni tanimaydi. U ishonch belgilarini izlaydi.\n\n✅ Real ishlaringiz — o'zingiz bajargan ish va jarayon\n✅ Haqiqiy mijoz fikrlari — o'ylab topilgani emas\n✅ Ochiq aloqa — telefon, Telegram, ish vaqti, manzil\n✅ Aniq ish tartibi — buyurtma qanday, qancha vaqt, to'lov qanday\n\nBularning hammasi qimmat emas — faqat e'tibor va tartib talab qiladi.\n\nSahifangiz yoki saytingizni birga ko'rib chiqamiz — <b>bepul konsultatsiya</b> 👇\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#mijoz_psixologiyasi #biznes #veb_sayt",
+    "parse_mode": "HTML"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-09/1800/s2.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-09/1800/s3.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-09/1800/s4.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-09/1800/s5.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-09/1800/s6.png"
+   }
+  ]
+ }
+}
