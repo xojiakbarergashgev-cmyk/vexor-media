@@ -37,3 +37,4 @@
 - 2026-11-08 | 13:00 video | Instagram «Aktual» (highlights): 3 ta zarur bo'lim (narxlar, ishlar, buyurtma tartibi)
 - 2026-11-08 | 18:00 matn | Target reklamani yoqishdan oldin: 5 tayyorgarlik (sahifa, aniq taklif, yo'nalish, tez javob, sinov byudjeti)
 - 2026-11-09 | 09:00 rasm | Telegram kanalda qadalgan post: kimsiz, nima taklif, qanday buyurtma
+- 2026-11-09 | 13:00 video | Sotuv voronkasi: arizani 3 bosqichga bo'lish (yangi ariza, gaplashildi/taklif, to'lov yoki rad + sabab)
