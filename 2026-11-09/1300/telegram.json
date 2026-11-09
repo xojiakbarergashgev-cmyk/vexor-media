@@ -1,0 +1,11 @@
+{
+ "method": "sendVideo",
+ "payload": {
+  "video": "2026-11-09/1300/video.mp4",
+  "caption": "<b>📊 Arizalar ko'p, sotuv esa kam? Balki gap bosqichlarda</b>\n\nArizalar bitta umumiy ro'yxatda tursa, kim javob kutayotgani, kim o'ylayotgani va kim ketib qolgani ko'rinmaydi.\n\n1️⃣ Yangi ariza — darhol yozib qo'ying: ism, raqam, qayerdan keldi\n2️⃣ Gaplashildi — narx va taklif yuborilganini belgilang\n3️⃣ To'lov yoki rad — har bitimni natija bilan yoping, rad bo'lsa sababini yozing\n\nShunda qaysi bosqichda mijoz ko'proq «tushib qolayotgani» aniq ko'rinadi. Voronkangizni birga quramizmi? Konsultatsiya bepul 🙌\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#CRM #sotuv #biznes",
+  "parse_mode": "HTML",
+  "width": 1080,
+  "height": 1920,
+  "supports_streaming": true
+ }
+}
