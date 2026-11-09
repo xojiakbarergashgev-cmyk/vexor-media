@@ -1,0 +1,8 @@
+{
+ "method": "sendPhoto",
+ "payload": {
+  "photo": "2026-11-09/0900/post.png",
+  "caption": "<b>📌 Kanalingizga yangi odam kirdi. U nimani ko'radi?</b>\n\nKo'pchilik avval qadalgan (pinned) postga qaraydi. U bo'sh bo'lsa yoki eski aksiya turgan bo'lsa — odam tushunmay chiqib ketishi mumkin.\n\nQadalgan postda 3 ta savolga javob bo'lsin:\n✅ <b>Kimsiz?</b> — biznesingiz bir jumlada\n✅ <b>Nima taklif qilasiz?</b> — asosiy xizmat va narx\n✅ <b>Qanday buyurtma beriladi?</b> — kontakt yoki bot havolasi\n\nBugun 5 daqiqa ajrating: kanalingizni ochib, qadalgan postni tekshiring 👀\n\nKanal yoki sahifangizni birga ko'rib chiqaylikmi? Konsultatsiya bepul 🙌\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#telegram #SMM #biznes",
+  "parse_mode": "HTML"
+ }
+}
