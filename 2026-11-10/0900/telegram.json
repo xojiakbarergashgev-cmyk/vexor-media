@@ -1,0 +1,8 @@
+{
+ "method": "sendPhoto",
+ "payload": {
+  "photo": "2026-11-10/0900/post.png",
+  "caption": "<b>🙋 «Narxi qancha?» «Qachon tayyor bo'ladi?» — yana o'sha savollar…</b>\n\nMijozlar ko'pincha bir xil savollarni beradi. Har biriga alohida yozish vaqt oladi, javob kechiksa — mijoz boshqa joyga ketishi mumkin.\n\nYechim oddiy: saytga <b>«Savol-javob» (FAQ)</b> bo'limini qo'shing.\n✅ <b>Narx</b> — taxminiy narx yoki paketlar\n✅ <b>Muddat</b> — ish qancha vaqt olishi\n✅ <b>Yetkazish va to'lov</b> — usullar, shartlar\n✅ <b>Buyurtma tartibi</b> — 1-2 qadam va tugma\n\nBugun sinab ko'ring: oxirgi haftada eng ko'p so'ralgan 5 savolni yozib chiqing — FAQ tayyor 📝\n\nSaytingizga FAQ yoki yangi sayt kerakmi? Konsultatsiya bepul 🙌\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#veb_sayt #biznes #maslahat",
+  "parse_mode": "HTML"
+ }
+}
