@@ -39,3 +39,4 @@
 - 2026-11-09 | 09:00 rasm | Telegram kanalda qadalgan post: kimsiz, nima taklif, qanday buyurtma
 - 2026-11-09 | 13:00 video | Sotuv voronkasi: arizani 3 bosqichga bo'lish (yangi ariza, gaplashildi/taklif, to'lov yoki rad + sabab)
 - 2026-11-09 | 18:00 karusel | Onlayn ishonch: mijoz ishonishi uchun 4 narsa (real ishlar, haqiqiy fikrlar, ochiq aloqa, aniq ish tartibi)
+- 2026-11-10 | 09:00 rasm | Saytga «Savol-javob» (FAQ) bo'limi: narx, muddat, yetkazish/to'lov, buyurtma tartibi
