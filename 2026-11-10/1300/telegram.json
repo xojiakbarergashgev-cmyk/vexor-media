@@ -1,0 +1,11 @@
+{
+ "method": "sendVideo",
+ "payload": {
+  "video": "2026-11-10/1300/video.mp4",
+  "caption": "<b>📸 Mahsulotingiz zo'r, rasmi esa sotmayaptimi?</b>\n\nOnlayn mijoz mahsulotni qo'lida ushlab ko'rolmaydi — u faqat rasmga qarab qaror qiladi. Yaxshi rasm uchun qimmat kamera shart emas, telefon ham yetadi:\n\n1️⃣ Tabiiy yorug'lik — deraza yonida, kunduzi suratga oling\n2️⃣ Toza fon — oq yoki bir xil rangli, ortiqcha narsalarsiz\n3️⃣ Bir necha burchak — oldi, yoni, yaqindan detal va ishlatilishi\n\nRasmlar tayyor bo'lsa, ularni chiroyli sahifa yoki Instagram'ga joylashda yordam beramiz. Konsultatsiya bepul 🙌\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#SMM #Instagram #biznes",
+  "parse_mode": "HTML",
+  "width": 1080,
+  "height": 1920,
+  "supports_streaming": true
+ }
+}
