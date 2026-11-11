@@ -44,3 +44,4 @@
 - 2026-11-10 | 18:00 matn | Instagram post matni (caption): 5 qoida (birinchi qator, bitta fikr, «siz» haqida, qisqa qatorlar, aniq chaqiriq)
 - 2026-11-11 | 09:00 rasm | Retargeting: saytga kirib yozmaganlarga qayta reklama (piksel, auditoriya, boshqa xabar)
 - 2026-11-11 | 13:00 video | Biznesni xaritaga qo'shish: Google/Yandex profil — 3 qadam (profil, to'liq ma'lumot, sharhlarga javob)
+- 2026-11-11 | 18:00 karusel | Sayt statistikasi: har oy kuzatish kerak bo'lgan 4 ko'rsatkich (tashrif, manba, chiqib ketish sahifasi, ariza)

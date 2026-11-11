@@ -1,0 +1,33 @@
+{
+ "method": "sendMediaGroup",
+ "payload": {
+  "media": [
+   {
+    "type": "photo",
+    "media": "2026-11-11/1800/s1.png",
+    "caption": "<b>Saytingiz ishlayaptimi yoki shunchaki turibdimi? 📊</b>\n\nSayt qilindi — lekin undan foyda bormi? Buni taxmin bilan emas, raqamlar bilan bilish mumkin.\n\nHar oy shu 4 narsaga qarang:\n✅ Nechta odam kiryapti — o'tgan oy bilan solishtiring\n✅ Qayerdan kelishyapti — Google, Instagram, Telegram yoki reklama\n✅ Qaysi sahifada ketib qolishyapti — o'sha sahifani tekshiring\n✅ Nechtasi ariza qoldiryapti — tashrif ko'p, ariza kam bo'lsa, taklif yoki formani qayta ko'ring\n\nGoogle Analytics va Yandex Metrika — bepul vositalar. Oyiga 20 daqiqa yetarli.\n\nStatistika ulanmaganmi yoki raqamlarni tushunish qiyinmi? <b>Bepul konsultatsiya</b>da birga ko'rib chiqamiz 👇\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#veb_sayt #biznes #raqamli_marketing",
+    "parse_mode": "HTML"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-11/1800/s2.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-11/1800/s3.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-11/1800/s4.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-11/1800/s5.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-11/1800/s6.png"
+   }
+  ]
+ }
+}
