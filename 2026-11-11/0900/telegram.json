@@ -1,0 +1,8 @@
+{
+ "method": "sendPhoto",
+ "payload": {
+  "photo": "2026-11-11/0900/post.png",
+  "caption": "<b>👀 Saytga kirdi, ko'rdi… lekin yozmadi?</b>\n\nBu odam sizni allaqachon tanidi — uni yo'qotish achinarli. Qayta reklama (<b>retargeting</b>) unga sizni yana bir bor eslatadi.\n\n✅ <b>Piksel o'rnating</b> — saytga Meta Pixel qo'yilsa, kirganlar yozib boriladi\n✅ <b>Auditoriya tuzing</b> — saytga yoki Instagram profilga kirgan, lekin yozmaganlar\n✅ <b>Boshqa xabar bering</b> — eslatma, ko'p beriladigan savolga javob yoki aniq taklif\n\nYangi odam qidirishdan oldin — tanishni qaytaring 😉\n\nRetargetingni sozlashda yordam kerakmi? Konsultatsiya bepul 🙌\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#target_reklama #biznes #maslahat",
+  "parse_mode": "HTML"
+ }
+}
