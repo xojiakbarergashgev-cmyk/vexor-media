@@ -1,0 +1,11 @@
+{
+ "method": "sendVideo",
+ "payload": {
+  "video": "2026-11-11/1300/video.mp4",
+  "caption": "<b>📍 Mijoz sizni xaritada topa oladimi?</b>\n\nOdamlar yaqin atrofdagi do'kon, kafe yoki ustaxonani ko'pincha xaritadan qidiradi. Biznesingiz u yerda bo'lmasa — mijoz boshqasiga yo'l oladi. Uchta oddiy qadam:\n\n1️⃣ Google Biznes Profili va Yandex Biznes'da profil oching, manzilni aniq belgilang\n2️⃣ Ish vaqti, telefon, sayt va real rasmlarni qo'shing\n3️⃣ Sharh so'rang va har bir fikrga xushmuomala javob yozing\n\nProfil va saytni bir-biriga bog'lab sozlashda yordam beramiz. Konsultatsiya bepul 🙌\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#biznes #marketing #GoogleMaps",
+  "parse_mode": "HTML",
+  "width": 1080,
+  "height": 1920,
+  "supports_streaming": true
+ }
+}
