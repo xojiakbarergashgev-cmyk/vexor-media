@@ -42,3 +42,4 @@
 - 2026-11-10 | 09:00 rasm | Saytga «Savol-javob» (FAQ) bo'limi: narx, muddat, yetkazish/to'lov, buyurtma tartibi
 - 2026-11-10 | 13:00 video | Mahsulot rasmini telefonda olish: 3 qoida (tabiiy yorug'lik, toza fon, bir necha burchak)
 - 2026-11-10 | 18:00 matn | Instagram post matni (caption): 5 qoida (birinchi qator, bitta fikr, «siz» haqida, qisqa qatorlar, aniq chaqiriq)
+- 2026-11-11 | 09:00 rasm | Retargeting: saytga kirib yozmaganlarga qayta reklama (piksel, auditoriya, boshqa xabar)
