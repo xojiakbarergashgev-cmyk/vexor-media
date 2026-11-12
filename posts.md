@@ -45,3 +45,4 @@
 - 2026-11-11 | 09:00 rasm | Retargeting: saytga kirib yozmaganlarga qayta reklama (piksel, auditoriya, boshqa xabar)
 - 2026-11-11 | 13:00 video | Biznesni xaritaga qo'shish: Google/Yandex profil — 3 qadam (profil, to'liq ma'lumot, sharhlarga javob)
 - 2026-11-11 | 18:00 karusel | Sayt statistikasi: har oy kuzatish kerak bo'lgan 4 ko'rsatkich (tashrif, manba, chiqib ketish sahifasi, ariza)
+- 2026-11-12 | 09:00 rasm | Sayt va sahifalar kimning nomida? Domen/hosting, Instagram va reklama hisobi egasi, parol va 2 bosqichli kirish
