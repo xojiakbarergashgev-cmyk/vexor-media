@@ -1,0 +1,8 @@
+{
+ "method": "sendPhoto",
+ "payload": {
+  "photo": "2026-11-12/0900/post.png",
+  "caption": "<b>🔑 Saytingiz va sahifangiz kimning nomida?</b>\n\nKo'p tadbirkor buni faqat usta bilan aloqa uzilganda o'ylaydi. Shunda sayt, Instagram yoki reklama hisobiga kira olmay qolish mumkin.\n\nHozir 3 narsani tekshirib qo'ying:\n\n✅ <b>Domen va hosting</b> — sizning nomingiz va pochtangizga ochilgan bo'lsin\n✅ <b>Instagram va reklama hisobi</b> — egasi siz, mutaxassis esa faqat admin\n✅ <b>Parol va 2 bosqichli kirish</b> — tasdiqlash kodi sizning telefoningizga kelsin\n\nBiznes sizniki — kalitlar ham sizda bo'lsin 😉\n\nQaysi biri kimda ekanini birga tekshirib beramiz. Konsultatsiya bepul 🙌\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#biznes #xavfsizlik #maslahat",
+  "parse_mode": "HTML"
+ }
+}
