@@ -1,0 +1,11 @@
+{
+ "method": "sendVideo",
+ "payload": {
+  "video": "2026-11-12/1300/video.mp4",
+  "caption": "<b>👀 Saytingiz 3 soniyada tushunarlimi?</b>\n\nMehmon saytni ochganda birinchi ekranni ko'radi — va bir zumda qaror qiladi: qolish yoki chiqib ketish. Birinchi ekran 3 savolga javob bersin:\n\n1️⃣ Nima qilasiz? — xizmatingiz oddiy so'z bilan\n2️⃣ Kim uchun? — kimga va qanday foyda, bitta gapda\n3️⃣ Qanday buyurtma? — ko'zga tashlanadigan bitta tugma\n\nSaytingizni ochib, shu 3 savolni tekshirib ko'ring. Birga ko'rib chiqishni xohlasangiz — konsultatsiya bepul 🙌\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#veb_sayt #biznes #marketing",
+  "parse_mode": "HTML",
+  "width": 1080,
+  "height": 1920,
+  "supports_streaming": true
+ }
+}
