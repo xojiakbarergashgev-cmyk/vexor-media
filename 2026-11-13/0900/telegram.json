@@ -1,0 +1,8 @@
+{
+ "method": "sendPhoto",
+ "payload": {
+  "photo": "2026-11-13/0900/post.png",
+  "caption": "<b>💾 Saytingizning zaxira nusxasi bormi?</b>\n\nSayt bir kunda ishlamay qolishi mumkin: xato yangilanish, buzib kirish yoki hosting muammosi. Zaxira nusxa bo'lsa — qayta tiklaysiz. Bo'lmasa — hammasini boshidan qilasiz.\n\n✅ <b>Avtomatik</b> — nusxa har kuni yoki har hafta o'zi olinsin\n✅ <b>Boshqa joyda</b> — faqat hostingda emas, alohida joyda ham tursin\n✅ <b>Tiklab ko'ring</b> — nusxa haqiqatan ishlashini oldindan sinang\n\nSaytingizda zaxira bor-yo'qligini bilmasangiz — birga tekshirib beramiz. Konsultatsiya bepul 🙌\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#veb_sayt #xavfsizlik #biznes",
+  "parse_mode": "HTML"
+ }
+}
