@@ -1,0 +1,33 @@
+{
+ "method": "sendMediaGroup",
+ "payload": {
+  "media": [
+   {
+    "type": "photo",
+    "media": "2026-11-13/1800/s1.png",
+    "caption": "<b>Postlaringiz bitta biznesnikidek ko'rinadimi? 🎨</b>\n\nHar post har xil rang, har xil shrift bo'lsa — sahifa tartibsiz ko'rinadi va odam sizni eslab qolmaydi.\n\nMurakkab dizayn shart emas, 4 qoida yetarli:\n✅ 2–3 ta rang — asosiy, fon va bitta urg'u rangi\n✅ 1–2 ta shrift — sarlavha va matn uchun\n✅ Logo doim bir joyda — kichik va aniq\n✅ Tayyor shablonlar — maslahat, ish namunasi, taklif uchun\n\nBir marta tuzasiz — keyin har post tezroq tayyorlanadi va sahifa bir xil uslubda turadi.\n\nBrend uslubini birga tuzamizmi? <b>Bepul konsultatsiya</b> uchun yozing 👇\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#SMM #instagram #brend",
+    "parse_mode": "HTML"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-13/1800/s2.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-13/1800/s3.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-13/1800/s4.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-13/1800/s5.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-13/1800/s6.png"
+   }
+  ]
+ }
+}
