@@ -49,3 +49,4 @@
 - 2026-11-12 | 13:00 video | Saytning birinchi ekrani: 3 soniyada 3 savolga javob (nima qilasiz, kim uchun, qanday buyurtma)
 - 2026-11-12 | 18:00 matn | SMM mutaxassis/agentlik tanlash: shartnomadan oldin 5 savol (ishlar, ish ro'yxati, natija o'lchovi, hisobot, reklama byudjeti)
 - 2026-11-13 | 09:00 rasm | Sayt zaxira nusxasi (backup): 3 qoida (avtomatik, boshqa joyda saqlash, tiklashni sinash)
+- 2026-11-13 | 13:00 video | Saytdagi ariza formasi: 3 qoida (kam maydon, aniq tugma matni, yuborilgandan keyin nima bo'lishi)

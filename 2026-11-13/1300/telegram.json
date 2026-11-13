@@ -1,0 +1,11 @@
+{
+ "method": "sendVideo",
+ "payload": {
+  "video": "2026-11-13/1300/video.mp4",
+  "caption": "<b>📝 Saytingizda ariza kam keladimi?</b>\n\nBa'zan sabab reklamada emas — ariza formasining o'zida. Odam yozmoqchi bo'ladi-yu, forma uni to'xtatib qo'yadi. 3 ta oddiy qoida:\n\n1️⃣ Kam maydon — faqat ism va telefon, qolganini suhbatda bilib olasiz\n2️⃣ Aniq tugma — «Yuborish» emas, «Narxni bilish» yoki «Qo'ng'iroq kutaman»\n3️⃣ Keyin nima bo'lishini ayting — qachon bog'lanishingizni yozing va shu va'dani bajaring\n\nSaytingizdagi formani hoziroq bir ko'rib chiqing. Birga tekshirishni xohlasangiz — konsultatsiya bepul 🙌\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#veb_sayt #biznes #marketing",
+  "parse_mode": "HTML",
+  "width": 1080,
+  "height": 1920,
+  "supports_streaming": true
+ }
+}
