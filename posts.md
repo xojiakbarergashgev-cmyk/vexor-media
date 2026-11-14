@@ -51,3 +51,4 @@
 - 2026-11-13 | 09:00 rasm | Sayt zaxira nusxasi (backup): 3 qoida (avtomatik, boshqa joyda saqlash, tiklashni sinash)
 - 2026-11-13 | 13:00 video | Saytdagi ariza formasi: 3 qoida (kam maydon, aniq tugma matni, yuborilgandan keyin nima bo'lishi)
 - 2026-11-13 | 18:00 karusel | Brend uslubi: postlar bir xil ko'rinishi uchun 4 qoida (2–3 rang, 1–2 shrift, logo joyi, tayyor shablon)
+- 2026-11-14 | 09:00 rasm | Biznes pochtasi: gmail emas — info@brendingiz.uz (kimdan kelgani aniq, xodim ketsa ham biznesda qoladi, sayt domeni bilan bir xil)
