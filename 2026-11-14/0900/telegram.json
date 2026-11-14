@@ -1,0 +1,8 @@
+{
+ "method": "sendPhoto",
+ "payload": {
+  "photo": "2026-11-14/0900/post.png",
+  "caption": "<b>📧 Mijozga qaysi manzildan yozasiz?</b>\n\n<i>sardor.savdo91@gmail.com</i> yoki <i>info@brendingiz.uz</i> — qaysi biri jiddiyroq ko'rinadi? Bitta kichik detal, lekin birinchi taassurot shundan boshlanadi.\n\n✅ <b>Kimdan ekani aniq</b> — xatni ochmasdan kompaniyangiz nomi ko'rinadi\n✅ <b>Pochta biznesniki</b> — xodim ketsa ham yozishmalar sizda qoladi\n✅ <b>Bir xil brend</b> — sayt domeni bilan bir xil manzil\n\nDomeningiz bo'lsa, biznes pochtasini ulash ko'p vaqt olmaydi. Qanday qilishni bilmasangiz — yozing, birga ko'rib chiqamiz. Konsultatsiya bepul 🙌\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#biznes #veb_sayt #brend",
+  "parse_mode": "HTML"
+ }
+}
