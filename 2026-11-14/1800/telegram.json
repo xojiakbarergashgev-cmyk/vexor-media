@@ -1,0 +1,7 @@
+{
+ "method": "sendMessage",
+ "payload": {
+  "text": "<b>🏷 Aksiya e'lon qilmoqchimisiz? Zarar ko'rmaslik uchun 5 qoida</b>\n\nChegirma — mijozni harakatga undashning eng tez yo'li. Lekin o'ylanmasdan qilinsa, foyda o'rniga zarar keltiradi: mijoz \"oddiy narxda olmayman, keyingi aksiyani kutaman\" deb o'rganib qoladi.\n\n<b>1. Aniq muddat qo'ying</b>\n\"Faqat 20-noyabrgacha\" — mijoz qaror qabul qilishni kechiktirmaydi. Muddatsiz aksiya — oddiy narx bo'lib qoladi.\n\n<b>2. Sababini ayting</b>\nBayram, yil yakuni, yangi filial, yangi mahsulot. Sababli chegirma ishonch uyg'otadi, sababsizi esa \"narxi oshirib yozilgan ekan-da\" degan shubha.\n\n<b>3. Shartni bir gapda yozing</b>\nNima kiradi, nima kirmaydi, qanday olish mumkin — hammasi ochiq. Mayda harflar bilan yashirilgan shartlar keyin norozilik va yomon fikrga aylanadi.\n\n<b>4. Avval hisoblab chiqing</b>\nChegirmadan keyin har bir sotuvdan qancha qoladi? Xarajatlarni qoplay oladimi? Ba'zan foizli chegirma o'rniga sovg'a yoki bepul yetkazib berish arzonroq tushadi.\n\n<b>5. Eski mijozlarni unutmang</b>\nAvval sizdan xarid qilganlarga birinchi bo'lib xabar bering — Telegram, SMS yoki CRM'dagi ro'yxat orqali. Ular sizni allaqachon taniydi, demak ularga sotish osonroq.\n\n⚠️ Har oy aksiya qilmang. Chegirma kamdan-kam bo'lsa — qadri bo'ladi.\n\n💬 Aksiyangiz uchun sahifa, reklama yoki mijozlar bazasiga xabar yuborishni sozlashda yordam kerakmi? Bepul konsultatsiyada birga reja tuzamiz.\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#biznes #marketing #maslahat",
+  "parse_mode": "HTML"
+ }
+}
