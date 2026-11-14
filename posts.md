@@ -52,3 +52,4 @@
 - 2026-11-13 | 13:00 video | Saytdagi ariza formasi: 3 qoida (kam maydon, aniq tugma matni, yuborilgandan keyin nima bo'lishi)
 - 2026-11-13 | 18:00 karusel | Brend uslubi: postlar bir xil ko'rinishi uchun 4 qoida (2–3 rang, 1–2 shrift, logo joyi, tayyor shablon)
 - 2026-11-14 | 09:00 rasm | Biznes pochtasi: gmail emas — info@brendingiz.uz (kimdan kelgani aniq, xodim ketsa ham biznesda qoladi, sayt domeni bilan bir xil)
+- 2026-11-14 | 13:00 video | Target reklama kreativi: 3 qoida (bitta xabar, haqiqiy mahsulot rasmi, aniq chaqiriq)
