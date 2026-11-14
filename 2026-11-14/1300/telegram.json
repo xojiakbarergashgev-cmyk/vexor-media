@@ -1,0 +1,11 @@
+{
+ "method": "sendVideo",
+ "payload": {
+  "video": "2026-11-14/1300/video.mp4",
+  "caption": "<b>🎯 Reklamangizni o'tkazib yuborishyaptimi?</b>\n\nOdamlar lentani tez aylantiradi. Reklama kreativi birinchi qarashdayoq to'xtatishi kerak. 3 ta oddiy qoida:\n\n1️⃣ Bitta xabar — bir reklamada bitta taklif, hammasini birdan aytmang\n2️⃣ Haqiqiy mahsulot — o'z mahsulotingiz, ishingiz yoki jamoangiz rasmi. Begona stok rasm ishonch bermaydi\n3️⃣ Aniq chaqiriq — keyin nima qilishni yozing: «Direktga yozing» yoki «Narxni bilish»\n\nKeyingi reklamangizni yoqishdan oldin shu 3 narsani tekshirib ko'ring. Birga ko'rib chiqishni xohlasangiz — konsultatsiya bepul 🙌\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#target_reklama #biznes #marketing",
+  "parse_mode": "HTML",
+  "width": 1080,
+  "height": 1920,
+  "supports_streaming": true
+ }
+}
