@@ -56,3 +56,4 @@
 - 2026-11-14 | 18:00 matn | Aksiya/chegirma to'g'ri qilish: 5 qoida (aniq muddat, sabab, ochiq shart, foyda hisobi, eski mijozlarga birinchi)
 - 2026-11-15 | 09:00 rasm | Saytni telefonda tekshirish: 3 test (tez ochiladimi, tugmalar bosiladimi, matn o'qiladimi)
 - 2026-11-15 | 13:00 video | Tijoriy taklif (KP) yuborish: 3 qoida (mijoz muammosidan boshlash, aniq narx va muddat, keyingi qadam)
+- 2026-11-15 | 18:00 karusel | Instagram Stories: har kuni joylash uchun 4 g'oya (ish jarayoni, savol/so'rovnoma, mijoz natijasi ruxsat bilan, kun taklifi)
