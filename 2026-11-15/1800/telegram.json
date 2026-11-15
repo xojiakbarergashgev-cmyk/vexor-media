@@ -1,0 +1,33 @@
+{
+ "method": "sendMediaGroup",
+ "payload": {
+  "media": [
+   {
+    "type": "photo",
+    "media": "2026-11-15/1800/s1.png",
+    "caption": "<b>Instagram Stories bo'sh turibdimi? 📲</b>\n\nStories — sahifangizni kuzatayotganlar eng tez ko'radigan joy. Har kuni nima qo'yishni bilmasangiz, mana 4 g'oya:\n\n✅ Ish jarayoni — buyurtma qanday tayyorlanyapti, 10–15 soniyalik video\n✅ Savol va so'rovnoma — fikr so'rang, javoblar yangi post g'oyasi bo'ladi\n✅ Mijoz natijasi — tayyor ish yoki fikr, faqat ruxsati bilan\n✅ Kun taklifi — bitta mahsulot, narx va «Direktga yozing»\n\nFoydalilarini «Aktual»ga saqlab qo'ying 👌\n\nInstagram sahifangiz va kontent rejasini birga tuzamizmi? <b>Bepul konsultatsiya</b> uchun yozing 👇\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#SMM #instagram #stories",
+    "parse_mode": "HTML"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-15/1800/s2.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-15/1800/s3.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-15/1800/s4.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-15/1800/s5.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-15/1800/s6.png"
+   }
+  ]
+ }
+}
