@@ -54,3 +54,4 @@
 - 2026-11-14 | 09:00 rasm | Biznes pochtasi: gmail emas — info@brendingiz.uz (kimdan kelgani aniq, xodim ketsa ham biznesda qoladi, sayt domeni bilan bir xil)
 - 2026-11-14 | 13:00 video | Target reklama kreativi: 3 qoida (bitta xabar, haqiqiy mahsulot rasmi, aniq chaqiriq)
 - 2026-11-14 | 18:00 matn | Aksiya/chegirma to'g'ri qilish: 5 qoida (aniq muddat, sabab, ochiq shart, foyda hisobi, eski mijozlarga birinchi)
+- 2026-11-15 | 09:00 rasm | Saytni telefonda tekshirish: 3 test (tez ochiladimi, tugmalar bosiladimi, matn o'qiladimi)

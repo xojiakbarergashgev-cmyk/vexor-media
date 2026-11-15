@@ -1,0 +1,8 @@
+{
+ "method": "sendPhoto",
+ "payload": {
+  "photo": "2026-11-15/0900/post.png",
+  "caption": "<b>📱 Saytingizni oxirgi marta telefonda qachon ochgansiz?</b>\n\nKo'pchilik saytni kompyuterda tekshiradi, mijozlar esa ko'pincha telefondan kiradi. Bugun 5 daqiqa ajrating va o'zingiz mijoz bo'lib ko'ring:\n\n✅ <b>Tez ochiladimi?</b> — Wi-Fi'ni o'chirib, mobil internetda sinang\n✅ <b>Tugmalar bosiladimi?</b> — «Qo'ng'iroq», «Buyurtma» barmoq bilan oson bosilsin\n✅ <b>Matn o'qiladimi?</b> — kattalashtirmasdan, yon tomonga surmasdan\n\nBittasiga «yo'q» desangiz — mijoz kutmasdan boshqa saytga o'tib ketishi mumkin. Natijani yozib yuboring, nimani tuzatish kerakligini birga ko'rib chiqamiz. Konsultatsiya bepul 🙌\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#veb_sayt #biznes #mobil",
+  "parse_mode": "HTML"
+ }
+}
