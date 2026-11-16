@@ -58,3 +58,4 @@
 - 2026-11-15 | 13:00 video | Tijoriy taklif (KP) yuborish: 3 qoida (mijoz muammosidan boshlash, aniq narx va muddat, keyingi qadam)
 - 2026-11-15 | 18:00 karusel | Instagram Stories: har kuni joylash uchun 4 g'oya (ish jarayoni, savol/so'rovnoma, mijoz natijasi ruxsat bilan, kun taklifi)
 - 2026-11-16 | 09:00 rasm | Domen tanlash: 3 qoida (qisqa va brend nomi bilan bir xil, aytish/yozish oson, chiziqcha va raqamsiz)
+- 2026-11-16 | 13:00 video | Mijoz bilan suhbatdan keyin: 3 qadam (xulosa xabari, CRM'ga yozish, keyingi bog'lanish sanasi)
