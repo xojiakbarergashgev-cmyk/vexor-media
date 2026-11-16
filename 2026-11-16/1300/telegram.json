@@ -1,0 +1,12 @@
+{
+ "method": "sendVideo",
+ "payload": {
+  "video": "2026-11-16/1300/video.mp4",
+  "width": 1080,
+  "height": 1920,
+  "duration": 17,
+  "supports_streaming": true,
+  "parse_mode": "HTML",
+  "caption": "<b>Mijoz bilan gaplashdingiz. Keyin-chi? 🤔</b>\n\nKo'p mijoz yomon taklif tufayli emas — suhbatdan keyin unutilgani uchun ketadi.\n\n✅ Xulosa xabari yuboring: nima kelishildi, narx va muddat\n✅ CRM'ga yozing: nima so'radi, nimadan ikkilandi\n✅ Keyingi bog'lanish sanasini belgilang va eslatma qo'ying\n\nMijozlar bilan ishni tartibga solishni xohlaysizmi? Bepul konsultatsiyaga yozing 👇\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#CRM #sotuv #biznes"
+ }
+}
