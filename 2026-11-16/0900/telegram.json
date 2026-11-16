@@ -1,0 +1,8 @@
+{
+ "method": "sendPhoto",
+ "payload": {
+  "photo": "2026-11-16/0900/post.png",
+  "caption": "<b>🌐 Sayt manzilingizni mijoz bir eshitishda eslab qoladimi?</b>\n\nDomen — biznesingizning internetdagi manzili. Uni telefonda aytasiz, vizitkaga yozasiz, reklamaga qo'yasiz. Shuning uchun tanlashdan oldin 3 narsani tekshiring:\n\n✅ <b>Qisqa va brend nomi bilan bir xil</b> — Instagram, Telegram va sayt bir nomda bo'lsa, topish oson\n✅ <b>Aytish va yozish oson</b> — telefonda aytganingizda «qanday yoziladi?» deb qayta so'ralmasin\n✅ <b>Chiziqcha va raqamsiz</b> — «vexor-uz-2024» emas, «vexor.uz»\n\nDomen tanlashda ikkilanyapsizmi yoki sayt kerakmi? Yozing — birga variant tanlaymiz, konsultatsiya bepul 🙌\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#veb_sayt #domen #biznes",
+  "parse_mode": "HTML"
+ }
+}
