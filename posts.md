@@ -62,3 +62,4 @@
 - 2026-11-16 | 18:00 matn | Mijoz qo'ng'irog'i: buyurtmani yo'qotmaslik uchun 5 qoida (tez qayta qo'ng'iroq, biznes nomi bilan salom, avval ehtiyoj, CRM'ga yozish, keyingi qadam)
 - 2026-11-17 | 09:00 rasm | Mijoz nega aynan sizni tanlashi kerak: farqni bitta jumlada aytish formulasi (aniq farq, mijoz tili, hamma joyda bir xil)
 - 2026-11-17 | 13:00 video | Mijozga to'lovni qulay qilish: 3 qoida (qulay usullar, tayyor to'lov havolasi, tasdiq xabari)
+- 2026-11-17 | 18:00 karusel | Reklama natijasini o'lchash: like emas — 4 raqam (ariza soni, bitta ariza narxi, arizadan sotuvga, qaytgan mijoz)
