@@ -1,0 +1,33 @@
+{
+ "method": "sendMediaGroup",
+ "payload": {
+  "media": [
+   {
+    "type": "photo",
+    "media": "2026-11-17/1800/s1.png",
+    "caption": "<b>Reklama ishladimi yoki yo'qmi? 📊</b>\n\nKo'rishlar va layklar ko'p — lekin buyurtma kelmayaptimi? Unda boshqa raqamlarga qarash vaqti keldi:\n\n✅ Ariza soni — nechta odam yozdi yoki qo'ng'iroq qildi\n✅ Bitta ariza narxi — sarflangan summa ÷ ariza soni\n✅ Arizadan sotuvga — nechtasi to'lovga aylandi\n✅ Qaytgan mijoz — yana buyurtma berdimi\n\nShu 4 raqamni har oy yozib borsangiz, qaysi reklama pul keltirayotgani aniq ko'rinadi 👌\n\nReklamangiz raqamlarini birga ko'rib chiqamizmi? <b>Bepul konsultatsiya</b> uchun yozing 👇\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#targetreklama #marketing #biznes",
+    "parse_mode": "HTML"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-17/1800/s2.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-17/1800/s3.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-17/1800/s4.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-17/1800/s5.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-17/1800/s6.png"
+   }
+  ]
+ }
+}
