@@ -60,3 +60,4 @@
 - 2026-11-16 | 09:00 rasm | Domen tanlash: 3 qoida (qisqa va brend nomi bilan bir xil, aytish/yozish oson, chiziqcha va raqamsiz)
 - 2026-11-16 | 13:00 video | Mijoz bilan suhbatdan keyin: 3 qadam (xulosa xabari, CRM'ga yozish, keyingi bog'lanish sanasi)
 - 2026-11-16 | 18:00 matn | Mijoz qo'ng'irog'i: buyurtmani yo'qotmaslik uchun 5 qoida (tez qayta qo'ng'iroq, biznes nomi bilan salom, avval ehtiyoj, CRM'ga yozish, keyingi qadam)
+- 2026-11-17 | 09:00 rasm | Mijoz nega aynan sizni tanlashi kerak: farqni bitta jumlada aytish formulasi (aniq farq, mijoz tili, hamma joyda bir xil)

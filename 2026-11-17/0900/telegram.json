@@ -1,0 +1,8 @@
+{
+ "method": "sendPhoto",
+ "payload": {
+  "photo": "2026-11-17/0900/post.png",
+  "caption": "<b>🎯 Mijoz nega aynan sizni tanlashi kerak?</b>\n\nBu savolga bitta jumlada javob bera olmasangiz, mijoz ham javob topolmaydi — va raqobatchini tanlaydi.\n\nOddiy formula: <i>«Biz [kimga] [qanday natija]ga [qanday farq bilan] yordam beramiz»</i>\n\n✅ <b>«Sifatli va arzon» — farq emas</b>, buni hamma aytadi\n✅ <b>Mijoz tilida yozing</b> — atama emas, u oladigan natija\n✅ <b>Hamma joyda bir xil</b> — bio, sayt, kanal\n\nO'z jumlangizni izohda yozing yoki bizga yuboring — birga sayqallaymiz, konsultatsiya bepul 🙌\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#marketing #biznes #mijoz_psixologiyasi",
+  "parse_mode": "HTML"
+ }
+}
