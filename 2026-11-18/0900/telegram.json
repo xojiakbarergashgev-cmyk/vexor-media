@@ -1,0 +1,8 @@
+{
+ "method": "sendPhoto",
+ "payload": {
+  "photo": "2026-11-18/0900/post.png",
+  "caption": "<b>⏰ Postni qachon joylash kerak?</b>\n\nYaxshi post ham auditoriyangiz uxlab yotganda joylansa, ko'pchilikka yetib bormaydi. Vaqtni taxmin qilmang — Instagram o'zi ko'rsatadi.\n\n✅ <b>Faol soatni toping</b> — Insights → Auditoriya bo'limida obunachilaringiz qachon onlayn\n✅ <b>Biroz oldinroq joylang</b> — faol soatdan 30–60 daqiqa oldin\n✅ <b>2 hafta sinab ko'ring</b> — qaysi vaqtda ko'proq yozishgan va ariza kelganini solishtiring\n\nSahifangiz uchun kontent reja va qulay vaqtni birga aniqlaymiz — konsultatsiya bepul 🙌\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#smm #instagram #biznes",
+  "parse_mode": "HTML"
+ }
+}
