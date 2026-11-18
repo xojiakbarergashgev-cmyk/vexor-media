@@ -1,0 +1,12 @@
+{
+ "method": "sendVideo",
+ "payload": {
+  "video": "2026-11-18/1300/video.mp4",
+  "width": 1080,
+  "height": 1920,
+  "duration": 17,
+  "supports_streaming": true,
+  "parse_mode": "HTML",
+  "caption": "<b>Mijoz saytingizga kirdi… va sizni topa olmadi 😕</b>\n\nXizmat yoqdi, lekin raqam qayerda — bilmadi. Ko'pincha mijoz qidirib o'tirmaydi, shunchaki ketadi. Aloqani oson qilish uchun 3 qoida:\n\n📍 Har sahifada — telefon yoki Telegram tugmasi doim ko'rinsin\n👆 Bir bosishda — raqam bosilsa qo'ng'iroq, Telegram bosilsa chat ochilsin\n🕘 Vaqt va manzil — ish vaqti, manzil va xarita havolasi aniq yozilsin\n\nSaytingizni ko'rib, nimani tuzatish kerakligini aytib beramiz — bepul konsultatsiyaga yozing 👇\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#veb_sayt #biznes #vexoruz"
+ }
+}
