@@ -1,0 +1,33 @@
+{
+ "method": "sendMediaGroup",
+ "payload": {
+  "media": [
+   {
+    "type": "photo",
+    "media": "2026-11-19/1800/s1.png",
+    "caption": "<b>Bayram savdosiga hozirdan tayyorlaning 🎄</b>\n\nDekabrda mijozlar faollashadi. Kim oldindan tayyor tursa, o'sha ko'proq sotadi. 4 qadam:\n\n✅ Bayram taklifi — paket, sovg'a to'plami yoki maxsus narx, shartlari aniq\n✅ Kontent rejasi — dekabr postlarini oldindan yozib qo'ying\n✅ Reklamani erta boshlang — kichik byudjetda sinab, ishlaydiganini tanlang\n✅ Tez javob — tayyor javoblar, har ariza CRM'da, sayt va tugmalar ishlayapti\n\nOxirgi haftaga qoldirmang — hozir boshlasangiz, mavsumni xotirjam kutib olasiz 👌\n\nBiznesingiz uchun bayram rejasini birga tuzamizmi? <b>Bepul konsultatsiya</b> uchun yozing 👇\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#biznes #marketing #smm",
+    "parse_mode": "HTML"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-19/1800/s2.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-19/1800/s3.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-19/1800/s4.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-19/1800/s5.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-19/1800/s6.png"
+   }
+  ]
+ }
+}
