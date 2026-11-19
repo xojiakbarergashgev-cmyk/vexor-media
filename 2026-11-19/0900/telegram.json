@@ -1,0 +1,8 @@
+{
+ "method": "sendPhoto",
+ "payload": {
+  "photo": "2026-11-19/0900/post.png",
+  "caption": "<b>📍 Bir biznes — bitta ma'lumot</b>\n\nMijoz Instagram'da bir raqamni, saytda boshqasini, xaritada esa eski manzilni ko'rsa — ikkilanadi. Ikkilangan mijoz esa ko'pincha boshqasiga yozadi.\n\nOyiga bir marta sayt, Instagram, Telegram va xaritadagi profilingizni ochib, 3 narsani solishtiring:\n\n✅ <b>Telefon raqam</b> — hamma joyda bitta va ishlaydigan\n✅ <b>Manzil va ish vaqti</b> — ko'chgan yoki jadval o'zgargan bo'lsa, hamma joyda yangilang\n✅ <b>Narx va aksiyalar</b> — tugagan aksiya hech qayerda qolib ketmasin\n\nSahifalaringizni birga ko'rib chiqamiz va nimani yangilash kerakligini aytamiz — konsultatsiya bepul 🙌\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#biznes #sayt #smm",
+  "parse_mode": "HTML"
+ }
+}
