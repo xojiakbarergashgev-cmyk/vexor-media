@@ -67,3 +67,4 @@
 - 2026-11-18 | 13:00 video | Saytdagi aloqa ma'lumotlari: 3 qoida (har sahifada tugma, bir bosishda qo'ng'iroq/chat, ish vaqti va manzil)
 - 2026-11-18 | 18:00 matn | Norozi mijoz va salbiy izoh: 5 qoida (o'chirmaslik, tez va xotirjam javob, avval tan olish, shaxsiyga o'tkazish, shikoyatdan xulosa)
 - 2026-11-19 | 09:00 rasm | Bir biznes — bitta ma'lumot: sayt, Instagram, Telegram, xaritada bir xil telefon, manzil/ish vaqti, narx/aksiya
+- 2026-11-19 | 13:00 video | Reels'ni telefonda suratga olish: 3 qoida (tabiiy yorug'lik, toza ovoz, subtitr)
