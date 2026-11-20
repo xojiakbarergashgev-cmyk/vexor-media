@@ -70,3 +70,4 @@
 - 2026-11-19 | 13:00 video | Reels'ni telefonda suratga olish: 3 qoida (tabiiy yorug'lik, toza ovoz, subtitr)
 - 2026-11-19 | 18:00 karusel | Yangi yil mavsumiga raqamli tayyorgarlik: 4 qadam (bayram taklifi, kontent rejasi, reklamani erta boshlash, javob berishga tayyorlik)
 - 2026-11-20 | 09:00 rasm | Ish vaqtidan keyin kelgan xabarga avtojavob: 3 qism (qabul qilindi, qachon javob berasiz, hozir nima qilish mumkin — havola)
+- 2026-11-20 | 13:00 video | Saytdagi «Biz haqimizda» sahifasi: 3 qoida (haqiqiy jamoa rasmi, qisqa hikoya, mijozga foyda + aloqa tugmasi)
