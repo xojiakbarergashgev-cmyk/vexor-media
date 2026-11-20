@@ -1,0 +1,12 @@
+{
+ "method": "sendVideo",
+ "payload": {
+  "video": "2026-11-20/1300/video.mp4",
+  "width": 1080,
+  "height": 1920,
+  "duration": 17,
+  "supports_streaming": true,
+  "parse_mode": "HTML",
+  "caption": "<b>«Biz haqimizda» sahifasini kim o'qiydi? Sizga ishonmoqchi bo'lgan mijoz 👀</b>\n\nKo'p saytlarda bu sahifa bo'sh yoki umumiy gaplar bilan to'la. Holbuki mijoz aynan shu yerda «bularga ishonsa bo'ladimi?» degan savolga javob qidiradi.\n\n📸 Haqiqiy odamlar — internetdan olingan rasm emas, o'zingiz va jamoangiz\n✍️ Qisqa hikoya — 2-3 gapda: qachon, nima uchun boshladingiz va kimlarga yordam berasiz\n🤝 Mijozga foyda — «biz» haqida emas, mijoz siz bilan nima olishi haqida yozing va oxiriga aloqa tugmasini qo'ying\n\nSaytingizni birga ko'rib chiqamiz — bepul konsultatsiyaga yozing 👇\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#veb_sayt #biznes #vexoruz"
+ }
+}
