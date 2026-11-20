@@ -1,0 +1,8 @@
+{
+ "method": "sendPhoto",
+ "payload": {
+  "photo": "2026-11-20/0900/post.png",
+  "caption": "<b>🌙 Mijoz kechasi yozdi. Unga kim javob beradi?</b>\n\nKo'p xabarlar ish vaqtidan keyin keladi — odamlar bo'sh vaqtida telefonga qaraydi. Javob kelmasa, mijoz boshqa joyga ham yozib qo'yadi.\n\nTelegram, Instagram yoki saytdagi chatga avtojavob qo'ying. U 3 qismdan iborat bo'lsin:\n\n✅ <b>Xabar qabul qilindi</b> — salom va rahmat\n✅ <b>Qachon javob berasiz</b> — masalan, «ertaga 09:00 dan keyin»\n✅ <b>Hozir nima qilish mumkin</b> — narxlar, katalog yoki sayt havolasi\n\nAvtojavob va xabarlarni CRM'ga yig'ishni sozlashda yordam beramiz — konsultatsiya bepul 🙌\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#biznes #crm #avtomatlashtirish",
+  "parse_mode": "HTML"
+ }
+}
