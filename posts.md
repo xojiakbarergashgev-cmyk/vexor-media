@@ -69,3 +69,4 @@
 - 2026-11-19 | 09:00 rasm | Bir biznes — bitta ma'lumot: sayt, Instagram, Telegram, xaritada bir xil telefon, manzil/ish vaqti, narx/aksiya
 - 2026-11-19 | 13:00 video | Reels'ni telefonda suratga olish: 3 qoida (tabiiy yorug'lik, toza ovoz, subtitr)
 - 2026-11-19 | 18:00 karusel | Yangi yil mavsumiga raqamli tayyorgarlik: 4 qadam (bayram taklifi, kontent rejasi, reklamani erta boshlash, javob berishga tayyorlik)
+- 2026-11-20 | 09:00 rasm | Ish vaqtidan keyin kelgan xabarga avtojavob: 3 qism (qabul qilindi, qachon javob berasiz, hozir nima qilish mumkin — havola)
