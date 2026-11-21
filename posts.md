@@ -72,3 +72,4 @@
 - 2026-11-20 | 09:00 rasm | Ish vaqtidan keyin kelgan xabarga avtojavob: 3 qism (qabul qilindi, qachon javob berasiz, hozir nima qilish mumkin — havola)
 - 2026-11-20 | 13:00 video | Saytdagi «Biz haqimizda» sahifasi: 3 qoida (haqiqiy jamoa rasmi, qisqa hikoya, mijozga foyda + aloqa tugmasi)
 - 2026-11-20 | 18:00 matn | Biznes Telegram kanali o'qilishi uchun 5 qoida (tavsifda 3 narsa, muntazamlik, foyda+reklama aralash, telefonda qulay format, har postda keyingi qadam)
+- 2026-11-21 | 09:00 rasm | Instagram qidiruvida topilish: «Ism» (Name) maydoniga Brend | Xizmat + Shahar (mijoz so'zi, qisqa, username brend bilan bir xil)
