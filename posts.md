@@ -73,3 +73,4 @@
 - 2026-11-20 | 13:00 video | Saytdagi «Biz haqimizda» sahifasi: 3 qoida (haqiqiy jamoa rasmi, qisqa hikoya, mijozga foyda + aloqa tugmasi)
 - 2026-11-20 | 18:00 matn | Biznes Telegram kanali o'qilishi uchun 5 qoida (tavsifda 3 narsa, muntazamlik, foyda+reklama aralash, telefonda qulay format, har postda keyingi qadam)
 - 2026-11-21 | 09:00 rasm | Instagram qidiruvida topilish: «Ism» (Name) maydoniga Brend | Xizmat + Shahar (mijoz so'zi, qisqa, username brend bilan bir xil)
+- 2026-11-21 | 13:00 video | Buyurtma holati haqida mijozga xabar: 3 qoida (qabul qilindi + muddat, jarayon bosqichi, kechiksa birinchi aytish)
