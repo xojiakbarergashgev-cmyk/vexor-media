@@ -1,0 +1,33 @@
+{
+ "method": "sendMediaGroup",
+ "payload": {
+  "media": [
+   {
+    "type": "photo",
+    "media": "2026-11-21/1800/s1.png",
+    "caption": "<b>Landing, to'liq sayt yoki internet do'kon? 🤔</b>\n\nSayt buyurtma qilishdan oldin eng ko'p beriladigan savol. Javob — biznesingiz maqsadiga bog'liq:\n\n✅ <b>Landing</b> — bitta xizmat yoki aksiya, reklamadan ariza yig'ish uchun\n✅ <b>To'liq sayt</b> — xizmatlar ko'p, Google'dan topilish va ishonch muhim bo'lsa\n✅ <b>Internet do'kon</b> — mahsulot ko'p, mijoz o'zi tanlab, o'zi buyurtma bersa\n\nTanlashdan oldin o'zingizga 3 savol bering — slaydlarda bor 👉\n\nQaysi biri sizga mosligini birga aniqlaymiz. <b>Bepul konsultatsiya</b> uchun yozing 👇\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#veb_sayt #biznes #vexor",
+    "parse_mode": "HTML"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-21/1800/s2.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-21/1800/s3.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-21/1800/s4.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-21/1800/s5.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-21/1800/s6.png"
+   }
+  ]
+ }
+}
