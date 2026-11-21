@@ -1,0 +1,12 @@
+{
+ "method": "sendVideo",
+ "payload": {
+  "video": "2026-11-21/1300/video.mp4",
+  "width": 1080,
+  "height": 1920,
+  "duration": 17,
+  "supports_streaming": true,
+  "parse_mode": "HTML",
+  "caption": "<b>Mijoz yana «Qachon tayyor?» deb so'rayaptimi? 🤔</b>\n\nDemak, u buyurtmasi qayerdaligini bilmayapti. 3 ta oddiy xabar buni hal qiladi:\n\n✅ Qabul qilindi — nima buyurtma qilindi va qachon tayyor bo'ladi\n🔄 Muhim bosqichda qisqa xabar: «Tayyorlanyapti», «Yo'lga chiqdi»\n⏰ Kechiksa — mijoz so'ramasdan oldin o'zingiz ayting: sababi va yangi vaqt\n\nBu xabarlarni CRM yoki Telegram bot orqali avtomatik qilib beramiz. Bepul konsultatsiyaga yozing 👇\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#CRM #avtomatlashtirish #vexoruz"
+ }
+}
