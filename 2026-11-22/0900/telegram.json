@@ -1,0 +1,8 @@
+{
+ "method": "sendPhoto",
+ "payload": {
+  "photo": "2026-11-22/0900/post.png",
+  "caption": "<b>👀 Gapirmang — ko'rsating</b>\n\n«Sifatli ishlaymiz», «tajribamiz katta» — buni hamma yozadi. Mijoz esa so'zga emas, siz oldin qilgan ishga qarab qaror qiladi.\n\nSayt, Instagram yoki Telegram'da ishlaringizni shunday ko'rsating:\n\n✅ <b>Haqiqiy rasm</b> — o'zingiz qilgan ish, stok rasm emas\n✅ <b>Vazifa → natija</b> — 1–2 qatorda: mijoz nima so'radi, siz nima qildingiz\n✅ <b>Mijoz ruxsati bilan</b> — ism yoki logoni faqat u rozi bo'lsa qo'ying\n\nBugun eng yaxshi 3 ta ishingizni tanlab, bitta joyga jamlang 👌\nSayt yoki profilingizda ishlarni qanday ko'rsatishni birga ko'rib chiqamiz — konsultatsiya bepul.\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#biznes #marketing #portfolio",
+  "parse_mode": "HTML"
+ }
+}
