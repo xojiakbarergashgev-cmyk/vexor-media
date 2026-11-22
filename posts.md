@@ -77,3 +77,4 @@
 - 2026-11-21 | 18:00 karusel | Landing, to'liq sayt yoki internet do'kon: qachon qaysi biri mos + tanlash uchun 3 savol (mijoz nima qiladi, nechta xizmat/mahsulot, reklama yoki qidiruv)
 - 2026-11-22 | 09:00 rasm | Ishlaringizni ko'rsating (portfolio): 3 qoida (haqiqiy rasm, vazifa → natija, mijoz ruxsati bilan)
 - 2026-11-22 | 13:00 video | «Narxi direktda» yozmang: 3 qoida (narxni ochiq yozish yoki «...dan boshlab», nima kiradi va muddat, keyingi qadam tugmasi)
+- 2026-11-22 | 18:00 matn | Mamnun mijozni tavsiya qiluvchiga aylantirish: 5 qoida (avval natija, to'g'ri payt, ulashishni oson qilish, ochiq rahmat/bonus, qayerdan kelganini CRM'ga yozish)
