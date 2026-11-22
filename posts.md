@@ -75,3 +75,4 @@
 - 2026-11-21 | 09:00 rasm | Instagram qidiruvida topilish: «Ism» (Name) maydoniga Brend | Xizmat + Shahar (mijoz so'zi, qisqa, username brend bilan bir xil)
 - 2026-11-21 | 13:00 video | Buyurtma holati haqida mijozga xabar: 3 qoida (qabul qilindi + muddat, jarayon bosqichi, kechiksa birinchi aytish)
 - 2026-11-21 | 18:00 karusel | Landing, to'liq sayt yoki internet do'kon: qachon qaysi biri mos + tanlash uchun 3 savol (mijoz nima qiladi, nechta xizmat/mahsulot, reklama yoki qidiruv)
+- 2026-11-22 | 09:00 rasm | Ishlaringizni ko'rsating (portfolio): 3 qoida (haqiqiy rasm, vazifa → natija, mijoz ruxsati bilan)
