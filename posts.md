@@ -76,3 +76,4 @@
 - 2026-11-21 | 13:00 video | Buyurtma holati haqida mijozga xabar: 3 qoida (qabul qilindi + muddat, jarayon bosqichi, kechiksa birinchi aytish)
 - 2026-11-21 | 18:00 karusel | Landing, to'liq sayt yoki internet do'kon: qachon qaysi biri mos + tanlash uchun 3 savol (mijoz nima qiladi, nechta xizmat/mahsulot, reklama yoki qidiruv)
 - 2026-11-22 | 09:00 rasm | Ishlaringizni ko'rsating (portfolio): 3 qoida (haqiqiy rasm, vazifa → natija, mijoz ruxsati bilan)
+- 2026-11-22 | 13:00 video | «Narxi direktda» yozmang: 3 qoida (narxni ochiq yozish yoki «...dan boshlab», nima kiradi va muddat, keyingi qadam tugmasi)

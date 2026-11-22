@@ -1,0 +1,12 @@
+{
+ "method": "sendVideo",
+ "payload": {
+  "video": "2026-11-22/1300/video.mp4",
+  "width": 1080,
+  "height": 1920,
+  "duration": 17,
+  "supports_streaming": true,
+  "parse_mode": "HTML",
+  "caption": "<b>«Narxi direktda» deb yozasizmi? 🤔</b>\n\nKo'p mijoz so'rashga erinadi va narxi ochiq turgan sahifaga o'tib ketadi. 3 ta oddiy qoida:\n\n💰 Narxni ochiq yozing — aniq narx yoki «...dan boshlab»\n📋 Narx yonida nima kirishi va muddatini qisqa yozing\n👉 Oxirida bitta aniq qadam: «Buyurtma berish» tugmasi yoki havola\n\nNarxlar sahifasi va Instagram «Aktual»ini birga tuzib beramiz. Bepul konsultatsiyaga yozing 👇\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#SMM #mijozpsixologiyasi #vexoruz"
+ }
+}
