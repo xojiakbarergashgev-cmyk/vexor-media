@@ -1,0 +1,33 @@
+{
+ "method": "sendMediaGroup",
+ "payload": {
+  "media": [
+   {
+    "type": "photo",
+    "media": "2026-11-23/1800/s1.png",
+    "caption": "<b>Takroriy ishlar vaqtingizni yeyaptimi? ⏳</b>\n\nBir xil savolga qayta-qayta javob, arizani u yerdan bu yerga ko'chirish, mijozga eslatish… Bularni avtomatlashtirish mumkin. Lekin hammasini birdaniga emas.\n\n✅ Vaqt ketadigan ishlarni bir hafta yozib chiqing\n✅ Eng ko'p takrorlanadigan bittasini tanlang\n✅ Oddiy vositadan boshlang: avtojavob, ariza Telegram'ga, CRM eslatma\n✅ 2–3 hafta natijani tekshiring\n\nBatafsil — slaydlarda 👉\n\nQaysi ishingizni avtomatlashtirish mumkinligini birga ko'rib chiqamiz. <b>Bepul konsultatsiya</b> uchun yozing 👇\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#avtomatlashtirish #CRM #biznes",
+    "parse_mode": "HTML"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-23/1800/s2.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-23/1800/s3.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-23/1800/s4.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-23/1800/s5.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-23/1800/s6.png"
+   }
+  ]
+ }
+}
