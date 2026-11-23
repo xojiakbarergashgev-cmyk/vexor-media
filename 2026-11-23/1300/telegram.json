@@ -1,0 +1,12 @@
+{
+ "method": "sendVideo",
+ "payload": {
+  "video": "2026-11-23/1300/video.mp4",
+  "width": 1080,
+  "height": 1920,
+  "duration": 17,
+  "supports_streaming": true,
+  "parse_mode": "HTML",
+  "caption": "<b>Mijozga ovozli xabar yuborasizmi? 🎧</b>\n\nKo'p mijoz uni darhol eshita olmaydi — ishda, yo'lda, odamlar orasida. Javob kutib qoladi yoki boshqaga yozadi. 3 ta oddiy qoida:\n\n✍️ Savolga qisqa matnda javob bering — 2-3 gap\n📌 Narx, manzil, muddat va havolalarni yozma yuboring — keyin topish oson\n📞 Gaplashish kerak bo'lsa, avval so'rang: «Qo'ng'iroq qilsam qulaymi?»\n\nTayyor javoblar va CRM'ni sozlab, muloqotni tez va tartibli qilib beramiz. Bepul konsultatsiyaga yozing 👇\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#mijozpsixologiyasi #CRM #vexoruz"
+ }
+}

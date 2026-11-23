@@ -79,3 +79,4 @@
 - 2026-11-22 | 13:00 video | «Narxi direktda» yozmang: 3 qoida (narxni ochiq yozish yoki «...dan boshlab», nima kiradi va muddat, keyingi qadam tugmasi)
 - 2026-11-22 | 18:00 matn | Mamnun mijozni tavsiya qiluvchiga aylantirish: 5 qoida (avval natija, to'g'ri payt, ulashishni oson qilish, ochiq rahmat/bonus, qayerdan kelganini CRM'ga yozish)
 - 2026-11-23 | 09:00 rasm | Qaysi reklama ariza keltirdi? UTM havola: 3 qoida (har joyga alohida havola, nomlarni bir xil yozish, Analytics/Metrika'da solishtirish)
+- 2026-11-23 | 13:00 video | Mijozga ovozli xabar emas: 3 qoida (qisqa matnda javob, narx/manzil/havola yozma, qo'ng'iroqdan oldin so'rash)
