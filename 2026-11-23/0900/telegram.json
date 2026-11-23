@@ -1,0 +1,8 @@
+{
+ "method": "sendPhoto",
+ "payload": {
+  "photo": "2026-11-23/0900/post.png",
+  "caption": "<b>📊 Qaysi reklama ariza keltirdi?</b>\n\nReklama Instagram'da ham, Telegram'da ham, Google'da ham turibdi. Ariza keldi — lekin qayerdan? Bilmasangiz, pulni qaysi biriga ko'paytirishni ham bilmaysiz.\n\nBuni <b>UTM havola</b> hal qiladi — saytga olib boradigan havolaning oxiriga qo'shiladigan belgi:\n\n✅ <b>Har joyga — alohida havola</b>: Instagram, Telegram, Google reklamasi uchun har birining o'z UTM'i\n✅ <b>Nomlarni bir xil yozing</b>: bugun «instagram», ertaga «Insta» bo'lsa — statistika chalkashadi\n✅ <b>Statistikada solishtiring</b>: Google Analytics yoki Yandex Metrika'da qaysi manba ariza berganini ko'ring\n\nShunda byudjet ishlayotgan joyga ketadi, «his qilib» emas 👌\nReklama va sayt statistikangizni birga sozlab beramiz — konsultatsiya bepul.\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#targetreklama #marketing #biznes",
+  "parse_mode": "HTML"
+ }
+}
