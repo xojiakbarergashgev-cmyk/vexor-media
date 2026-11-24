@@ -82,3 +82,4 @@
 - 2026-11-23 | 13:00 video | Mijozga ovozli xabar emas: 3 qoida (qisqa matnda javob, narx/manzil/havola yozma, qo'ng'iroqdan oldin so'rash)
 - 2026-11-23 | 18:00 karusel | Takroriy ishlarni avtomatlashtirish: qayerdan boshlash — 4 qadam (ishlarni yozib chiqish, eng ko'p takrorlanadiganini tanlash, oddiy vositadan boshlash, natijani tekshirish)
 - 2026-11-24 | 09:00 rasm | Telefonda sotadigan mahsulot rasmi: 3 qoida (tabiiy yorug'lik, toza fon, bir xil uslub)
+- 2026-11-24 | 13:00 video | Mijoz ikkilansa: kafolat va shartlarni ochiq yozish — 3 qoida (nima kafolatlanadi, muammo bo'lsa nima qilinadi, ko'rinadigan joyda + faqat bajariladigan va'da)

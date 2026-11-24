@@ -1,0 +1,12 @@
+{
+ "method": "sendVideo",
+ "payload": {
+  "video": "2026-11-24/1300/video.mp4",
+  "width": 1080,
+  "height": 1920,
+  "duration": 17,
+  "supports_streaming": true,
+  "parse_mode": "HTML",
+  "caption": "<b>Mijoz ikkilanyaptimi? 🤔</b>\n\nKo'pincha sabab narx emas, xavotir: «Natija chiqmasa-chi?» Shartlarni ochiq yozsangiz, qaror qilish osonlashadi:\n\n✅ Nima kafolatlanishini aniq yozing — muddat, almashtirish yoki tuzatish\n🛠 Muammo bo'lsa, mijoz nima qilishini ayting — kimga yozadi, qancha vaqtda hal bo'ladi\n📍 Shartlarni saytda, Aktualda va narx yonida ko'rsating\n\nMuhimi: faqat bajara oladiganingizni va'da qiling.\n\nSayt va sahifangizda shartlarni tushunarli joylashda yordam beramiz. Bepul konsultatsiyaga yozing 👇\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#mijozpsixologiyasi #sayt #vexoruz"
+ }
+}
