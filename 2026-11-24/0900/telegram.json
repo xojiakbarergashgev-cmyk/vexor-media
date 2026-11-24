@@ -1,0 +1,8 @@
+{
+ "method": "sendPhoto",
+ "payload": {
+  "photo": "2026-11-24/0900/post.png",
+  "caption": "<b>📸 Telefonda «sotadigan» rasm</b>\n\nMijoz mahsulotingizni qo'liga ololmaydi — u faqat rasmni ko'radi. Rasm qorong'i yoki chalkash bo'lsa, eng yaxshi mahsulot ham oddiy ko'rinadi.\n\nQimmat kamera shart emas. Telefon va 3 qoida yetadi:\n\n✅ <b>Tabiiy yorug'lik</b> — kunduzi, deraza yonida suratga oling, chaqnoqsiz\n✅ <b>Toza fon</b> — oq devor yoki oddiy stol, ortiqcha narsalar kadrdan tashqarida\n✅ <b>Bir xil uslub</b> — hamma mahsulot bir xil burchak va fonda: sahifa tartibli, brend esda qoladi\n\nBugun bitta mahsulotni shu qoidalar bilan qayta suratga olib ko'ring — farqni o'zingiz ko'rasiz 👌\nInstagram sahifangiz va kontentingizni birga ko'rib chiqamiz — konsultatsiya bepul.\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#smm #instagram #biznes",
+  "parse_mode": "HTML"
+ }
+}
