@@ -1,0 +1,8 @@
+{
+ "method": "sendPhoto",
+ "payload": {
+  "photo": "2026-11-25/0900/post.png",
+  "caption": "<b>🎯 Reklamani bosh sahifaga yubormang</b>\n\nOdam reklamada «Logotip dizayni — 3 kunda» degan taklifni ko'rib bosdi. Sayt ochildi — u yerda kompaniya tarixi, 10 ta xizmat va uzun menyu. Kerakli taklifni qidirishga ko'pchilikning sabri yetmaydi.\n\nMos sahifa uchun 3 qoida:\n\n✅ <b>Reklama = sahifa</b> — reklamadagi taklif sahifadagi birinchi gap bo'lsin\n✅ <b>Bitta harakat</b> — bitta asosiy tugma: «Ariza qoldirish» yoki «Yozish»\n✅ <b>Chalg'itmang</b> — faqat shu taklif haqida: nima, qancha, qanday buyurtma\n\nReklamangiz qaysi sahifaga olib boryapti? Bugun bir tekshirib ko'ring 👀\nReklama va sahifangizni birga ko'rib chiqamiz — konsultatsiya bepul.\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#targetreklama #sayt #biznes",
+  "parse_mode": "HTML"
+ }
+}

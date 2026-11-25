@@ -84,3 +84,4 @@
 - 2026-11-24 | 09:00 rasm | Telefonda sotadigan mahsulot rasmi: 3 qoida (tabiiy yorug'lik, toza fon, bir xil uslub)
 - 2026-11-24 | 13:00 video | Mijoz ikkilansa: kafolat va shartlarni ochiq yozish — 3 qoida (nima kafolatlanadi, muammo bo'lsa nima qilinadi, ko'rinadigan joyda + faqat bajariladigan va'da)
 - 2026-11-24 | 18:00 matn | Reklama byudjeti: kichik summadan to'g'ri boshlash — 5 qoida (og'rimaydigan summa, kunlik limit, sinovga vaqt, ishlamaganini to'xtatish, asta oshirish)
+- 2026-11-25 | 09:00 rasm | Reklamani bosh sahifaga emas — mos sahifaga yuborish: 3 qoida (reklama = sahifa, bitta harakat, chalg'itmaslik)
