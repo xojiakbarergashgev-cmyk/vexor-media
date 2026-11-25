@@ -1,0 +1,33 @@
+{
+ "method": "sendMediaGroup",
+ "payload": {
+  "media": [
+   {
+    "type": "photo",
+    "media": "2026-11-25/1800/s1.png",
+    "caption": "<b>Blogerga reklama berishdan oldin o'qing 📲</b>\n\nBloger reklamasi yaxshi ishlashi mumkin. Lekin faqat kuzatuvchilar soniga qarab tanlasangiz, pul behuda ketishi oson.\n\n✅ Auditoriyani tekshiring — mijozlaringiz uni kuzatadimi?\n✅ Oldingi reklamalariga qarang — izohlar jonlimi?\n✅ Hammasini yozma kelishing — format, sana, havola, to'lov\n✅ Natijani alohida o'lchang — o'z havolasi yoki promokod\n\nBatafsil — slaydlarda 👉\n\nReklama rejasini va natijani o'lchashni birga tuzamiz. <b>Bepul konsultatsiya</b> uchun yozing 👇\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#reklama #SMM #biznes",
+    "parse_mode": "HTML"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-25/1800/s2.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-25/1800/s3.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-25/1800/s4.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-25/1800/s5.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-25/1800/s6.png"
+   }
+  ]
+ }
+}
