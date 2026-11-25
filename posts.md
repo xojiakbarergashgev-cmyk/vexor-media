@@ -86,3 +86,4 @@
 - 2026-11-24 | 18:00 matn | Reklama byudjeti: kichik summadan to'g'ri boshlash — 5 qoida (og'rimaydigan summa, kunlik limit, sinovga vaqt, ishlamaganini to'xtatish, asta oshirish)
 - 2026-11-25 | 09:00 rasm | Reklamani bosh sahifaga emas — mos sahifaga yuborish: 3 qoida (reklama = sahifa, bitta harakat, chalg'itmaslik)
 - 2026-11-25 | 13:00 video | Narx so'rab jim bo'lgan mijoz: qayta yozish — 3 qoida (1–2 kunda muloyim eslatma, foyda bilan yozish, CRM'da vazifa)
+- 2026-11-25 | 18:00 karusel | Bloger orqali reklama: pul behuda ketmasin — 4 qadam (auditoriyani tekshirish, oldingi reklamalariga qarash, yozma kelishuv, alohida havola/promokod bilan o'lchash)
