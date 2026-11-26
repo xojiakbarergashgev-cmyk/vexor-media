@@ -88,3 +88,4 @@
 - 2026-11-25 | 13:00 video | Narx so'rab jim bo'lgan mijoz: qayta yozish — 3 qoida (1–2 kunda muloyim eslatma, foyda bilan yozish, CRM'da vazifa)
 - 2026-11-25 | 18:00 karusel | Bloger orqali reklama: pul behuda ketmasin — 4 qadam (auditoriyani tekshirish, oldingi reklamalariga qarash, yozma kelishuv, alohida havola/promokod bilan o'lchash)
 - 2026-11-26 | 09:00 rasm | Instagram Stories — har kuni ko'rinib turish: 3 g'oya (ish jarayoni, savolga javob, so'rovnoma stikeri)
+- 2026-11-26 | 13:00 video | Postdagi izohlar — sotuv imkoniyati: 3 qoida (tez javob, ochiq javob — narx/muddat, aniq keyingi qadam)
