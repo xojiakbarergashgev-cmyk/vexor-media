@@ -1,0 +1,8 @@
+{
+ "method": "sendPhoto",
+ "payload": {
+  "photo": "2026-11-26/0900/post.png",
+  "caption": "<b>📱 Har kuni ko'rinib turing — Stories orqali</b>\n\nPost har kuni chiqmasa ham bo'ladi, lekin Stories — mijoz bilan kundalik aloqa. Uni murakkab qilish shart emas.\n\nStories uchun 3 oddiy g'oya:\n\n✅ <b>Ish jarayoni</b> — bugun nima qildingiz, 15 soniyalik video\n✅ <b>Savolga javob</b> — mijozlar tez-tez so'raydigan bitta savol\n✅ <b>So'rovnoma</b> — stiker bilan fikr so'rang, javob berish oson\n\nBugun bittasini sinab ko'ring 👀\nInstagram'ingiz uchun kontent reja kerakmi? Birga tuzamiz — konsultatsiya bepul.\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#smm #instagram #biznes",
+  "parse_mode": "HTML"
+ }
+}
