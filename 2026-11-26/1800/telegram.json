@@ -1,0 +1,7 @@
+{
+ "method": "sendMessage",
+ "payload": {
+  "text": "<b>📄 Mijoz narx so'radi — taklifni qanday yuborish kerak? Tijorat taklifi uchun 5 qoida</b>\n\nMijoz «narxini yuboring» dedi. Ko'pchilik bitta raqam yozib yuboradi yoki 10 sahifalik umumiy katalog tashlaydi. Ikkalasida ham mijoz solishtira olmaydi va ko'pincha jim bo'lib qoladi.\n\n<b>1. Mijozning vazifasidan boshlang</b>\nBirinchi qatorda o'zingiz haqingizda emas, u nima so'raganini yozing: «Siz do'koningiz uchun onlayn buyurtma qabul qiladigan sayt so'radingiz». Mijoz uni eshitganingizni ko'radi.\n\n<b>2. Nima kiradi — aniq ro'yxat</b>\n«Sayt yaratish» deb emas, bandma-band yozing: nechta sahifa, nima qilinadi, nima siz tomondan. Nima kirmasligini ham ayting — keyin tortishuv bo'lmaydi.\n\n<b>3. Narx, muddat va to'lov tartibi ochiq</b>\nYakuniy summa, necha kunda tayyor bo'lishi va to'lov qanday bo'linishi bir joyda tursin. Yashirin qo'shimcha to'lov ishonchni buzadi.\n\n<b>4. 2–3 variant bering</b>\nMasalan: oddiy, standart, kengaytirilgan. Mijoz «olaymi-olmaymi» emas, «qaysi birini olay» deb o'ylay boshlaydi.\n\n<b>5. Oxirida keyingi qadam</b>\nTaklif qachongacha amal qilishini va boshlash uchun nima qilish kerakligini yozing: «Ma'qul bo'lsa, shu yerga javob yozing — ertaga boshlaymiz».\n\n✅ Eslatma: taklif telefonda bemalol o'qilsin — qisqa matn yoki bitta PDF fayl.\n\n💬 Xizmatingiz uchun tushunarli taklif shablonini tuzib beraylikmi? Bepul konsultatsiyaga yozing.\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#biznes #sotuv #tadbirkor",
+  "parse_mode": "HTML"
+ }
+}
