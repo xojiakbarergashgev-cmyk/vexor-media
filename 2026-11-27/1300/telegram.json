@@ -1,0 +1,12 @@
+{
+ "method": "sendVideo",
+ "payload": {
+  "video": "2026-11-27/1300/video.mp4",
+  "width": 1080,
+  "height": 1920,
+  "duration": 17,
+  "supports_streaming": true,
+  "parse_mode": "HTML",
+  "caption": "<b>Sotdingiz. Keyin-chi? 🤝</b>\n\nKo'p biznes xariddan keyin jim bo'lib qoladi — mijoz esa sizni tez unutadi. Bir-ikki xabar uni qayta olib keladi:\n\n1️⃣ Rahmat ayting va foydalanish yoki parvarish bo'yicha 2–3 maslahat yuboring\n2️⃣ Bir necha kundan keyin so'rang: «Hammasi yoqdimi?» — muammoni erta bilasiz\n3️⃣ Qaytishga sabab bering: foydali taklif yoki eslatma, sanasini CRM'ga yozing\n\nBu xabarlarni CRM yoki Telegram bot orqali avtomatlashtirishda yordam beramiz — bepul konsultatsiyaga yozing 👇\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#CRM #mijoz #vexoruz"
+ }
+}
