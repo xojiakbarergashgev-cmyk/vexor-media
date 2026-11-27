@@ -90,3 +90,4 @@
 - 2026-11-26 | 09:00 rasm | Instagram Stories — har kuni ko'rinib turish: 3 g'oya (ish jarayoni, savolga javob, so'rovnoma stikeri)
 - 2026-11-26 | 13:00 video | Postdagi izohlar — sotuv imkoniyati: 3 qoida (tez javob, ochiq javob — narx/muddat, aniq keyingi qadam)
 - 2026-11-26 | 18:00 matn | Tijorat taklifi (narx taklifi) mijoz tushunishi uchun 5 qoida (mijoz vazifasidan boshlash, nima kiradi/kirmaydi, narx-muddat-to'lov ochiq, 2–3 variant, keyingi qadam va amal muddati)
+- 2026-11-27 | 09:00 rasm | Instagram professional akkaunt: 3 imkoniyat (statistika, aloqa tugmalari, reklama) — Sozlamalar → Akkaunt turi

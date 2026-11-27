@@ -1,0 +1,8 @@
+{
+ "method": "sendPhoto",
+ "payload": {
+  "photo": "2026-11-27/0900/post.png",
+  "caption": "<b>📊 Instagram'ingiz shaxsiymi yoki professionalmi?</b>\n\nBiznes sahifasi oddiy shaxsiy akkauntda tursa, ko'p foydali vositalar yopiq qoladi. Professional akkauntga o'tish bepul va bir necha daqiqa oladi.\n\n✅ <b>Statistika</b> — qaysi post ishlayotgani, obunachilar qachon faol\n✅ <b>Aloqa tugmalari</b> — mijoz bir bosishda qo'ng'iroq qiladi yoki yozadi\n✅ <b>Reklama</b> — postni to'g'ridan-to'g'ri reklamaga berish mumkin\n\nQayerda: Sozlamalar → Akkaunt turi va vositalar 👆\n\nSahifangizni birga ko'rib chiqamizmi? Konsultatsiya bepul.\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#instagram #smm #biznes",
+  "parse_mode": "HTML"
+ }
+}
