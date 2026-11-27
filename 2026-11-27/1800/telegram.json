@@ -1,0 +1,33 @@
+{
+ "method": "sendMediaGroup",
+ "payload": {
+  "media": [
+   {
+    "type": "photo",
+    "media": "2026-11-27/1800/s1.png",
+    "caption": "<b>Mijozingiz kim? 🎯</b>\n\n«Hamma uchun» deb yozilgan post va reklama ko'pincha hech kimga yetib bormaydi. Avval ideal mijozingizni aniq tasavvur qiling — 4 savol yetarli:\n\n✅ U kim — yoshi, shahri, kasbi\n✅ Qanday muammosi bor — o'z so'zlari bilan\n✅ Qayerda vaqt o'tkazadi — Instagram, Telegram, Google\n✅ Nimadan ikkilanadi — narx, sifat, muddat\n\nJavoblar tayyor bo'lsa, reklama, post mavzulari va matn ancha aniqlashadi. Batafsil — slaydlarda 👉\n\nMijoz portretini va unga mos kontent rejasini birga tuzamiz. <b>Bepul konsultatsiya</b> uchun yozing 👇\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#marketing #SMM #biznes",
+    "parse_mode": "HTML"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-27/1800/s2.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-27/1800/s3.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-27/1800/s4.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-27/1800/s5.png"
+   },
+   {
+    "type": "photo",
+    "media": "2026-11-27/1800/s6.png"
+   }
+  ]
+ }
+}
