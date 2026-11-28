@@ -93,3 +93,4 @@
 - 2026-11-27 | 09:00 rasm | Instagram professional akkaunt: 3 imkoniyat (statistika, aloqa tugmalari, reklama) — Sozlamalar → Akkaunt turi
 - 2026-11-27 | 13:00 video | Xariddan keyingi xabar — mijoz qaytishi uchun 3 qoida (rahmat + yo'riqnoma, bir necha kundan keyin holatini so'rash, qaytishga sabab + CRM'da sana)
 - 2026-11-27 | 18:00 karusel | Mijozingiz kim? Ideal mijoz portreti — 4 savol (kim, qanday muammo, qayerda vaqt o'tkazadi, nimadan ikkilanadi) + natija: aniq reklama, mavzu, mijoz tili
+- 2026-11-28 | 09:00 rasm | Ikki tilli sayt (o'zbek + rus): 3 qoida (to'liq tarjima, ko'rinadigan UZ | RU tugmasi, til tanlovini eslab qolish) + narx/aloqa/tugmalar ham tarjima

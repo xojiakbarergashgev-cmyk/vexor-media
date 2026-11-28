@@ -1,0 +1,8 @@
+{
+ "method": "sendPhoto",
+ "payload": {
+  "photo": "2026-11-28/0900/post.png",
+  "caption": "<b>🌐 Saytingiz faqat bitta tildami?</b>\n\nMijozlaringizning bir qismi o'zbekcha, bir qismi ruscha qidiradi va o'qiydi. Sayt faqat bitta tilda bo'lsa, ikkinchi guruh tushunmay chiqib ketishi mumkin.\n\nIkki tilli sayt uchun 3 qoida:\n✅ <b>To'liq tarjima</b> — yarim sahifa ruscha, yarmi o'zbekcha bo'lmasin\n✅ <b>Til tugmasi ko'rinadigan joyda</b> — yuqorida UZ | RU, bir bosishda\n✅ <b>Tanlov eslab qolinsin</b> — keyingi sahifada yana so'ramasin\n\nNarx, aloqa ma'lumotlari va tugmalar ham har ikki tilda bo'lsin 👆\n\nSaytingizni birga ko'rib chiqamizmi? Konsultatsiya bepul.\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#veb_sayt #biznes #vexor",
+  "parse_mode": "HTML"
+ }
+}
