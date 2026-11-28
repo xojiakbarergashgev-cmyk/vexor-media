@@ -1,0 +1,12 @@
+{
+ "method": "sendVideo",
+ "payload": {
+  "video": "2026-11-28/1300/video.mp4",
+  "width": 1080,
+  "height": 1920,
+  "duration": 17,
+  "supports_streaming": true,
+  "parse_mode": "HTML",
+  "caption": "<b>Reklamasiz yangi mijoz? Hamkorlik posti 🤝</b>\n\nSizning mijozlaringiz boshqa bir biznesning ham mijozi. Shu biznes bilan birga post qilsangiz — uning auditoriyasi sizni ham ko'radi:\n\n1️⃣ Mos sherik toping: raqobatchi emas, yonma-yon biznes (to'yxona va gul do'koni kabi)\n2️⃣ Ikkalasiga foyda bo'lsin: birga sovg'a, aksiya yoki maslahat — shartlarni oldindan yozma kelishing\n3️⃣ Instagram'da «Invite collaborator» bilan joylang — post ikkala sahifada ham chiqadi\n\nHamkorlik g'oyasi, post va reklama rejasini birga tuzib beramiz — bepul konsultatsiyaga yozing 👇\n\n📩 @ergashev_395\n🌐 vexoruz.tiiny.site\n\n#SMM #instagram #vexoruz"
+ }
+}

@@ -94,3 +94,4 @@
 - 2026-11-27 | 13:00 video | Xariddan keyingi xabar — mijoz qaytishi uchun 3 qoida (rahmat + yo'riqnoma, bir necha kundan keyin holatini so'rash, qaytishga sabab + CRM'da sana)
 - 2026-11-27 | 18:00 karusel | Mijozingiz kim? Ideal mijoz portreti — 4 savol (kim, qanday muammo, qayerda vaqt o'tkazadi, nimadan ikkilanadi) + natija: aniq reklama, mavzu, mijoz tili
 - 2026-11-28 | 09:00 rasm | Ikki tilli sayt (o'zbek + rus): 3 qoida (to'liq tarjima, ko'rinadigan UZ | RU tugmasi, til tanlovini eslab qolish) + narx/aloqa/tugmalar ham tarjima
+- 2026-11-28 | 13:00 video | Hamkorlik posti (collab) — reklamasiz yangi auditoriya: 3 qoida (mos qo'shni biznes, ikkalasiga foyda + yozma kelishuv, Instagram «Invite collaborator»)
